@@ -21,7 +21,7 @@ public class ExApplication {
 //		
 //		try {
 //			ac = SpringApplication.run(ExApplication.class, args);
-//			System.out.println("ExApplication runs...." + ac.getBean("myMap", Map.class).get("greetings"));
+//			// System.out.println("ExApplication runs...." + ac.getBean("myMap", Map.class).get("greetings"));
 //		
 //		} catch (Exception ignore) {
 //		
